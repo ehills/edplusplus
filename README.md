@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
 
+# Installing on Windows 7
+More or less this minus enteprise nonsense.
+https://stackoverflow.com/questions/41798109/how-do-you-install-angular-cli-for-windows-7
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
